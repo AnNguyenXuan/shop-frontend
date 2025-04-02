@@ -20,7 +20,7 @@
 1. **Clone dự án từ GitHub**:
 
    ```bash
-   git clone https://github.com/Huutkang/shop-frontend.git
+   git clone https://github.com/AnNguyenXuan/shop-frontend.git
    cd shop-frontend
    ```
 
@@ -44,7 +44,7 @@
 ## Quy tắc làm việc nhóm
 
 1. **Làm việc trên nhánh cá nhân**:
-   - Mỗi thành viên làm việc trên nhánh của mình (`thang`, `an`, `phuoc`, `trung`).
+   - Mỗi thành viên làm việc trên nhánh của mình (`thang`, `an`, `phuc`).
    - **Không đẩy trực tiếp lên nhánh `main`**.
 
 2. **Pull mã nguồn trước khi làm việc**:
@@ -89,4 +89,4 @@
    - Sau đó, commit thay đổi trong file `package.json` và `package-lock.json`.
 
 3. **Liên hệ**:
-   - Nếu gặp vấn đề, liên hệ **Hữu Thắng** hoặc các thành viên khác để được hỗ trợ.
+   - Nếu gặp vấn đề, liên hệ các thành viên trong nhóm để được hỗ trợ.
